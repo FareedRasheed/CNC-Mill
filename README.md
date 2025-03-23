@@ -1,6 +1,6 @@
 # CNC Mill
 
-This project was part of my first-year Mechatronics Engineering course (MTE100), where we designed and built a 3-axis CNC milling machine using Lego Mindstorms and RobotC (essentially C++). Aside from the mill bit (a screw my teammate found in his trunk), the entire structure was constructed using Legos and Tetrix pieces.
+This project was part of my first-year Mechatronics Engineering course (MTE100), where we designed and built a 3-axis CNC milling machine using Lego Mindstorms and RobotC. Aside from the mill bit (a screw my teammate found in his trunk), the entire structure was constructed using Legos and Tetrix pieces.
 
 ## Challenges & Design Iterations
 
