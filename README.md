@@ -17,3 +17,5 @@ The CNC mill is programmed using a text file uploaded to the main controller. Th
 ## Takeaways
 
 This project was a lot of fun and a valuable learning experience in resourceful engineering and design under constraints. It challenged us to balance precision, stability, and safety while working with unconventional materials.
+
+https://youtube.com/shorts/YJNZDEr6Z84?feature=share
